@@ -3,8 +3,7 @@
 ## Description
 
 This is the final view of the application:
-
-![alt text](image.png)
+![Application Screenshot](image.png)
 
 The application allows users to input a URL, scrape the content, and ask questions about the scraped data using advanced RAG techniques powered by Ollama and LangChain.
 
