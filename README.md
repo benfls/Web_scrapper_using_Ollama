@@ -2,6 +2,12 @@
 
 ## Description
 
+This is the final view of the application:
+
+![AI Crawler Application Screenshot](./assets/ai_crawler_screenshot.png)
+
+The application allows users to input a URL, scrape the content, and ask questions about the scraped data using advanced RAG techniques powered by Ollama and LangChain.
+
 This project is a web application built using [Streamlit](https://streamlit.io/). The app scrapes web URLs to extract relevant information and leverages [Ollama](https://ollama.ai/) and [LangChain](https://www.langchain.com/) to perform Retrieval-Augmented Generation (RAG). The goal is to provide insightful and meaningful information based on the scraped data.
 
 ## Features
