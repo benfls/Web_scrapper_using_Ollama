@@ -4,7 +4,7 @@
 
 This is the final view of the application:
 
-![AI Crawler Application Screenshot](./assets/ai_crawler_screenshot.png)
+![alt text](image.png)
 
 The application allows users to input a URL, scrape the content, and ask questions about the scraped data using advanced RAG techniques powered by Ollama and LangChain.
 
